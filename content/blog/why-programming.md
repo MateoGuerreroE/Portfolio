@@ -15,7 +15,7 @@ Want the long story? No? Ok, then I'll just say that ....??
 
 For those who want the long story, here we go...
 
-![Earth from Space](/images/blog/programming-wallpaper.jpg)
+![Coding-wallpaper](/images/blog/programming-wallpaper.jpg)
 
 ## Programming was not on my plans
 
@@ -33,6 +33,6 @@ Around 2021, I started studying programming again in a University in my country,
 
 I have a lot of ideas on how to combine my two passions, finance and programming, into a huge concept that can leave a big print in the world, but first I need to become an expert, to know people who is going to help me with It, and to know the environment I will change. That is going to take years, even decades, I'm not in a hurry, _I learnt by hurrying that you can be on the same point you started If you are not paying enought attention._
 
-:::callout{title="Hello World Callout"}
-This is a quick tip about markdown
+:::callout{title="Do I see myself programming in 10 years?"}
+Absolutely, I will be working at an important role at that time, and I'll start materializing my own ideas to create a company for sure.
 :::

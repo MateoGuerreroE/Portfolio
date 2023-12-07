@@ -16,7 +16,6 @@ const query = gql`
   }
 `;
 
-console.log(query);
 const { data } = await useAsyncQuery(query);
 </script>
 
