@@ -35,7 +35,7 @@ const { data: posts } = await useAsyncData("latest-posts", () =>
       </p>
     </div>
     <img
-      src="~//assets/images/profile-picture.jpg"
+      src="../assets/images/profile-picture.jpg"
       alt="Profile Photo"
       class="w-1/2 h-1/2 md:max-w-sm p-8 mx-auto"
     />
