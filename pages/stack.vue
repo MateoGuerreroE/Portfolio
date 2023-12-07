@@ -50,7 +50,7 @@
     </li>
   </ul>
 
-  <img src="assets/images/code-snap.jpg" alt="Code Snap" class="mt-8 mb-8" />
+  <img src="/code-snap.jpg" alt="Code Snap" class="mt-8 mb-8" />
   <p class="text-lg mb-20">
     As I mentioned on a blog entry you can find on this same web page, the main
     intention of this portfolio being built in a technology I do not feel
