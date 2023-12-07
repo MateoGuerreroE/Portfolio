@@ -1,8 +1,8 @@
 ---
-title: Getting Started with Nuxt 3
-description: This is a quick introduction on how to get started with Nuxt 3.
-date: 2023-05-24
-cover: clement-helardot-95YRwf6CNw8-unsplash.jpg
+title: Vue Portflio
+description: As a developer using React for current projects, why choosing Vue for my portfolio?
+date: 2023-12-07
+cover: vue-image.webp
 tags:
   - nuxt
   - vue
