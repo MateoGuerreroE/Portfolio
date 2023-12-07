@@ -11,7 +11,7 @@ tags:
 
 # Why did I choose to program? 🔑
 
-Want the long story? No? Ok, then I'll just say that ....??
+Want the long story? No? Ok, then I'll just say that I discovered a passion about programming while I was doing something unrelated to the actual career, eventhough my experiences and skills told others I had a clear road for becoming a developer, I was the only one not being able to see It that clearly.
 
 For those who want the long story, here we go...
 
