@@ -51,7 +51,7 @@
   </ul>
 
   <img
-    src="~//assets//images//code-snap.jpg"
+    src="~//assets/images/code-snap.jpg"
     alt="Visual Studio Code Synthwave 84 Theme"
     class="mt-8 mb-8"
   />
